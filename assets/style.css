@@ -217,6 +217,11 @@ body {
 	flex : 2;
 
 }
+
+label {
+	width: 100%;
+}
+
 form {
 	display: flex;
 	flex-direction: column;
