@@ -219,6 +219,7 @@ body {
 }
 
 label {
+	width: 100%;
 }
 
 form {
